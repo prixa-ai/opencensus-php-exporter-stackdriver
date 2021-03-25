@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": ">=5.6",
-        "opencensus/opencensus": "dev-master",
+        "opencensus/opencensus": "dev-master#b44f89a365c2c94d62d3197c4b7d8cab7a809893",
         "google/cloud-trace": "~0.9"
     },
     "require-dev": {
